@@ -1880,6 +1880,19 @@ body {
   transition: 0.2s background ease-in-out;
   background: linear-gradient(to left, #554346, #45505b) !important;
 }
+.cid-rq5Icv125j {
+  background: #ffffff;
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+.cid-rq5Icv125j .video-block {
+  margin: auto;
+}
+@media (max-width: 768px) {
+  .cid-rq5Icv125j .video-block {
+    width: 100% !important;
+  }
+}
 .cid-roJhYH4UZb {
   padding-top: 30px;
   padding-bottom: 30px;
